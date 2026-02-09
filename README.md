@@ -21,6 +21,11 @@ Classic Snake game built using **Python** and **Pygame**.
 - Pygame 🎮
 
 ## ▶ How to Run
+Install Pygame library:
 ```bash
 pip install pygame
+```
+Run the game:
+```bash
 python snake_game.py
+```
